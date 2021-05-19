@@ -38,7 +38,6 @@
 - 🖥 &nbsp;
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-XD)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![MockFlow](https://img.shields.io/badge/-MockFlow-333333?style=flat&logo=mockflow)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
