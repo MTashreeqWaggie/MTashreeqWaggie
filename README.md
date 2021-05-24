@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science at University of the Western Cape.
-- 💼 &nbsp; Currently looking for employment.
+- 💼 &nbsp; 
 - 🌱 &nbsp; Learning more about Databases and Software Engineering.
 - ✍️ &nbsp; Pursuing Graphic Design and Drawing as hobbies.
 
